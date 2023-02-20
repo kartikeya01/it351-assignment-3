@@ -3,6 +3,11 @@ body {
   height: 100%;
 }
 
+a{
+  color: white;
+  text-decoration: none;
+}
+
 #contact-form {
   display: flex;
   align-items: center;
